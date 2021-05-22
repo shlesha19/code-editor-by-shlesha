@@ -1,0 +1,83 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width:100%;
+  overflow: hidden;
+  background-color: black;
+}
+
+#html-code {
+  height: 34%;
+  width:40%;
+  position:absolute;
+  left: 0px;
+  background:black;
+  color: white;
+}
+
+#css-code {
+  height: 33%;
+  width:40%;
+  position:absolute ;
+  top:212px;
+  left: 0px;
+  background:black;
+color: white;
+}
+
+#js-code {
+  height: 33%;
+  width:40%;
+  position:absolute ;
+  top:417px;
+  left: 0px;
+  background:black;
+  color: white;
+}
+
+#output {
+  height: 100%;
+  width: 56%;
+  background: whitesmoke;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.html-head{
+  width: 4%;
+  height: 33%;
+  position: absolute;
+  top: 0px;
+  left: 40%;
+  background: rgb(51, 51, 51);
+  writing-mode: vertical-lr;
+  font-size: 3vw;
+  text-align: center;
+  color: white;
+}
+.css-head{
+  width: 4%;
+  height: 33%;
+  position: absolute;
+  top: 210px;
+  left: 40%;
+  background: rgb(51, 51, 51);
+  writing-mode: vertical-lr;
+  font-size: 3vw;
+  text-align: center;
+  color: white;
+}
+.js-head{
+  width: 4%;
+  height: 33%;
+  position: absolute;
+  top: 420px;
+  left: 40%;
+  background: rgb(51, 51, 51);
+  writing-mode: vertical-lr;
+  font-size: 3vw;
+  text-align: center;
+  color: white;
+}

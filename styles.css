@@ -8,7 +8,7 @@ html,body{
 }
 
 #html-code {
-  height: 34%;
+  height: 58vw;
   width:40%;
   position:absolute;
   left: 0px;
@@ -17,7 +17,7 @@ html,body{
 }
 
 #css-code {
-  height: 33%;
+  height: 58vw;
   width:40%;
   position:absolute ;
   top:212px;
@@ -27,7 +27,7 @@ color: white;
 }
 
 #js-code {
-  height: 33%;
+  height: 58vw;
   width:40%;
   position:absolute ;
   top:417px;
